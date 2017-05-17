@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#ben-smith-cover {
+  background-image: url("http://i.imgur.com/YFSa4tJ.jpg")
+}
+
+#ben-smith-card {
+  background-image: url("http://i.imgur.com/GvlZn7u.jpg")
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
